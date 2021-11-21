@@ -31,5 +31,10 @@ Pretrained models are available [here](https://drive.google.com/drive/folders/1C
 
 ## Results
 All results and analysis is available in `masters_thesis.pdf`.
+
 Some extracts:
-[Results](results/results.png)
+![Results](results/results.png)
+
+![Ensemble](results/ensemble.png)
+
+![Unseen](results/unseen.png)
