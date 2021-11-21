@@ -1,7 +1,7 @@
 # DMPNN-MatchMaker
 ## Drug Synergy Prediction with Learned Embeddings
 
-This repository contains code for predicting drug synergies (based on MatchMaker model) using learnt molecular embeddings (based on ChemProp). 
+This repository contains code for predicting drug synergies (based on [MatchMaker model](https://github.com/esidorovics/matchmaker-pytorch)) using learnt molecular embeddings (based on [ChemProp](https://github.com/chemprop/chemprop)). 
 
 The thesis can be find in [here](masters_thesis.pdf).
 ## Requirements
